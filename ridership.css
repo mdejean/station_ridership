@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+
+#map {
+    height: 100vh;
+    width:100%;
+}
+
+.chart {
+    width: 500px;
+    height: 300px;
+}
+
+.chart_title {
+    font-weight: bold;
+}
+
+.stop {
+    width: 4px;
+    height: 4px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 4px;
+    left: -3px;
+    top: -3px;
+}
+
+.opts {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
