@@ -1,0 +1,2982 @@
+{
+    "1": {
+        "weekday": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 23968,
+                "exits": 44994
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 5040,
+                "exits": 10281
+            },
+            {
+                "ending_time": "07:45:00",
+                "entries": 948,
+                "exits": 202
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 70529,
+                "exits": 17167
+            },
+            {
+                "ending_time": "08:45:00",
+                "entries": 1136,
+                "exits": 133
+            },
+            {
+                "ending_time": "11:15:00",
+                "entries": 971,
+                "exits": 250
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 112114,
+                "exits": 31750
+            },
+            {
+                "ending_time": "15:00:00",
+                "entries": 303,
+                "exits": 371
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 67184,
+                "exits": 46951
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 62673,
+                "exits": 103866
+            }
+        ],
+        "weekend": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 9744,
+                "exits": 15977
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 2084,
+                "exits": 5407
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 6741,
+                "exits": 2964
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 19081,
+                "exits": 7905
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 21674,
+                "exits": 12873
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 16063,
+                "exits": 18778
+            }
+        ],
+        "1": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 4755,
+                "exits": 7172
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 1073,
+                "exits": 2645
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 2618,
+                "exits": 1279
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 8034,
+                "exits": 3462
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 9719,
+                "exits": 5764
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 7028,
+                "exits": 8231
+            }
+        ],
+        "2": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 4915,
+                "exits": 7251
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 1220,
+                "exits": 2692
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 11954,
+                "exits": 3224
+            },
+            {
+                "ending_time": "08:45:00",
+                "entries": 1136,
+                "exits": 133
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 16581,
+                "exits": 4984
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 16965,
+                "exits": 10067
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 12195,
+                "exits": 19915
+            }
+        ],
+        "3": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 5121,
+                "exits": 9314
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 1113,
+                "exits": 2203
+            },
+            {
+                "ending_time": "07:45:00",
+                "entries": 948,
+                "exits": 202
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 16327,
+                "exits": 3978
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 27709,
+                "exits": 7231
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 13937,
+                "exits": 10314
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 14413,
+                "exits": 25022
+            }
+        ],
+        "4": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 5464,
+                "exits": 11617
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 1130,
+                "exits": 2126
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 17444,
+                "exits": 4078
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 27861,
+                "exits": 8505
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 14483,
+                "exits": 10302
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 14353,
+                "exits": 24558
+            }
+        ],
+        "5": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 4553,
+                "exits": 8981
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 813,
+                "exits": 1634
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 12260,
+                "exits": 2878
+            },
+            {
+                "ending_time": "11:15:00",
+                "entries": 971,
+                "exits": 250
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 18498,
+                "exits": 5155
+            },
+            {
+                "ending_time": "15:00:00",
+                "entries": 303,
+                "exits": 371
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 9795,
+                "exits": 7693
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 9980,
+                "exits": 16440
+            }
+        ],
+        "6": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 3915,
+                "exits": 7831
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 764,
+                "exits": 1626
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 12544,
+                "exits": 3009
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 21465,
+                "exits": 5875
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 12004,
+                "exits": 8575
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 11732,
+                "exits": 17931
+            }
+        ],
+        "7": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 4989,
+                "exits": 8805
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 1011,
+                "exits": 2762
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 4123,
+                "exits": 1685
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 11047,
+                "exits": 4443
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 11955,
+                "exits": 7109
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 9035,
+                "exits": 10547
+            }
+        ]
+    },
+    "2": {
+        "weekday": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 21679,
+                "exits": 45915
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 3847,
+                "exits": 9154
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 67827,
+                "exits": 15143
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 111714,
+                "exits": 29070
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 59497,
+                "exits": 43569
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 58144,
+                "exits": 96294
+            }
+        ],
+        "weekend": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 10276,
+                "exits": 16692
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 2127,
+                "exits": 5705
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 7280,
+                "exits": 3136
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 20648,
+                "exits": 8101
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 22113,
+                "exits": 13990
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 16687,
+                "exits": 19532
+            }
+        ],
+        "1": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 4923,
+                "exits": 7458
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 1013,
+                "exits": 2662
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 2738,
+                "exits": 1309
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 8584,
+                "exits": 3629
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 10081,
+                "exits": 6107
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 7310,
+                "exits": 9030
+            }
+        ],
+        "2": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 3629,
+                "exits": 5870
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 741,
+                "exits": 1720
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 12447,
+                "exits": 2811
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 19997,
+                "exits": 5674
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 11426,
+                "exits": 8126
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 11001,
+                "exits": 18540
+            }
+        ],
+        "3": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 4337,
+                "exits": 8970
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 738,
+                "exits": 1667
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 14380,
+                "exits": 3322
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 23476,
+                "exits": 5891
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 11441,
+                "exits": 8576
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 11847,
+                "exits": 20386
+            }
+        ],
+        "4": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 4596,
+                "exits": 10479
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 760,
+                "exits": 1705
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 14395,
+                "exits": 3061
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 22848,
+                "exits": 5785
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 12393,
+                "exits": 9115
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 11755,
+                "exits": 20495
+            }
+        ],
+        "5": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 4437,
+                "exits": 9891
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 810,
+                "exits": 1997
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 13867,
+                "exits": 3001
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 23280,
+                "exits": 5851
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 11769,
+                "exits": 8780
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 12052,
+                "exits": 18835
+            }
+        ],
+        "6": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 4680,
+                "exits": 10705
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 798,
+                "exits": 2065
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 12738,
+                "exits": 2948
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 22113,
+                "exits": 5869
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 12468,
+                "exits": 8972
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 11489,
+                "exits": 18038
+            }
+        ],
+        "7": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 5353,
+                "exits": 9234
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 1114,
+                "exits": 3043
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 4542,
+                "exits": 1827
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 12064,
+                "exits": 4472
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 12032,
+                "exits": 7883
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 9377,
+                "exits": 10502
+            }
+        ]
+    },
+    "3": {
+        "weekday": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 7449,
+                "exits": 16214
+            },
+            {
+                "ending_time": "01:00:00",
+                "entries": 12046,
+                "exits": 26589
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 1348,
+                "exits": 3333
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 3587,
+                "exits": 3956
+            },
+            {
+                "ending_time": "07:30:00",
+                "entries": 1768,
+                "exits": 431
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 23144,
+                "exits": 5273
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 87556,
+                "exits": 18877
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 40148,
+                "exits": 10752
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 58023,
+                "exits": 20407
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 20645,
+                "exits": 16851
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 46696,
+                "exits": 43171
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 19794,
+                "exits": 33195
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 37482,
+                "exits": 69164
+            }
+        ],
+        "weekend": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 5138,
+                "exits": 8658
+            },
+            {
+                "ending_time": "01:00:00",
+                "entries": 5335,
+                "exits": 10251
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 770,
+                "exits": 2348
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1484,
+                "exits": 3338
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 3107,
+                "exits": 1365
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 8886,
+                "exits": 3608
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 8763,
+                "exits": 3616
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 17990,
+                "exits": 7291
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 9413,
+                "exits": 5917
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 17638,
+                "exits": 12503
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 7191,
+                "exits": 7973
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 11946,
+                "exits": 15799
+            }
+        ],
+        "1": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 2737,
+                "exits": 4181
+            },
+            {
+                "ending_time": "01:00:00",
+                "entries": 2210,
+                "exits": 4018
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 300,
+                "exits": 919
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 770,
+                "exits": 1809
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 789,
+                "exits": 373
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 3486,
+                "exits": 1576
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 2322,
+                "exits": 1029
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 7815,
+                "exits": 3318
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 2648,
+                "exits": 1645
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 8069,
+                "exits": 5337
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 1976,
+                "exits": 2384
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 5119,
+                "exits": 7277
+            }
+        ],
+        "2": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 946,
+                "exits": 1588
+            },
+            {
+                "ending_time": "01:00:00",
+                "entries": 2280,
+                "exits": 4128
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 198,
+                "exits": 426
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 710,
+                "exits": 715
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 3699,
+                "exits": 858
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 18417,
+                "exits": 3910
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 5923,
+                "exits": 1572
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 11593,
+                "exits": 3990
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 3031,
+                "exits": 2172
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 9636,
+                "exits": 8615
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 2932,
+                "exits": 5326
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 7327,
+                "exits": 15262
+            }
+        ],
+        "3": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 1063,
+                "exits": 2494
+            },
+            {
+                "ending_time": "01:00:00",
+                "entries": 2420,
+                "exits": 5506
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 190,
+                "exits": 490
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 709,
+                "exits": 693
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 3862,
+                "exits": 858
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 19309,
+                "exits": 4115
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 6038,
+                "exits": 1615
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 11963,
+                "exits": 4082
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 3079,
+                "exits": 2256
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 9321,
+                "exits": 8774
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 3157,
+                "exits": 5318
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 7624,
+                "exits": 14876
+            }
+        ],
+        "4": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 1261,
+                "exits": 2804
+            },
+            {
+                "ending_time": "01:00:00",
+                "entries": 2444,
+                "exits": 5774
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 209,
+                "exits": 524
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 725,
+                "exits": 778
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 3129,
+                "exits": 719
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 16073,
+                "exits": 3469
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 4955,
+                "exits": 1399
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 10173,
+                "exits": 3892
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 2322,
+                "exits": 2672
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 7990,
+                "exits": 8257
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 1701,
+                "exits": 3644
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 6476,
+                "exits": 11930
+            }
+        ],
+        "5": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 1840,
+                "exits": 3826
+            },
+            {
+                "ending_time": "01:00:00",
+                "entries": 2168,
+                "exits": 4809
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 381,
+                "exits": 798
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 712,
+                "exits": 749
+            },
+            {
+                "ending_time": "07:30:00",
+                "entries": 1768,
+                "exits": 431
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 5636,
+                "exits": 1231
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 17838,
+                "exits": 3689
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 12095,
+                "exits": 3096
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 12030,
+                "exits": 4101
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 6019,
+                "exits": 4663
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 9591,
+                "exits": 8504
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 6412,
+                "exits": 9998
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 8151,
+                "exits": 13924
+            }
+        ],
+        "6": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 2339,
+                "exits": 5502
+            },
+            {
+                "ending_time": "01:00:00",
+                "entries": 2734,
+                "exits": 6372
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 370,
+                "exits": 1095
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 731,
+                "exits": 1021
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 6818,
+                "exits": 1607
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 15919,
+                "exits": 3694
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 11137,
+                "exits": 3070
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 12264,
+                "exits": 4342
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 6194,
+                "exits": 5088
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 10158,
+                "exits": 9021
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 5592,
+                "exits": 8909
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 7904,
+                "exits": 13172
+            }
+        ],
+        "7": [
+            {
+                "ending_time": "00:00:00",
+                "entries": 2401,
+                "exits": 4477
+            },
+            {
+                "ending_time": "01:00:00",
+                "entries": 3125,
+                "exits": 6233
+            },
+            {
+                "ending_time": "04:00:00",
+                "entries": 470,
+                "exits": 1429
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 714,
+                "exits": 1529
+            },
+            {
+                "ending_time": "08:00:00",
+                "entries": 2318,
+                "exits": 992
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 5400,
+                "exits": 2032
+            },
+            {
+                "ending_time": "12:00:00",
+                "entries": 6441,
+                "exits": 2587
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 10175,
+                "exits": 3973
+            },
+            {
+                "ending_time": "16:00:00",
+                "entries": 6765,
+                "exits": 4272
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 9569,
+                "exits": 7166
+            },
+            {
+                "ending_time": "20:00:00",
+                "entries": 5215,
+                "exits": 5589
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 6827,
+                "exits": 8522
+            }
+        ]
+    },
+    "4": {
+        "weekday": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 18263,
+                "exits": 43346
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 5434,
+                "exits": 5938
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 122711,
+                "exits": 25303
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 83997,
+                "exits": 29127
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 65626,
+                "exits": 59455
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 52485,
+                "exits": 99440
+            }
+        ],
+        "weekend": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 10471,
+                "exits": 21430
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 2265,
+                "exits": 5815
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 14586,
+                "exits": 6071
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 29701,
+                "exits": 11854
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 28531,
+                "exits": 20079
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 19077,
+                "exits": 27741
+            }
+        ],
+        "1": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 6013,
+                "exits": 11455
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1214,
+                "exits": 3121
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 6401,
+                "exits": 2855
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 14761,
+                "exits": 5880
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 14181,
+                "exits": 9929
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 8763,
+                "exits": 13896
+            }
+        ],
+        "2": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 4043,
+                "exits": 8038
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1303,
+                "exits": 1326
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 28865,
+                "exits": 5728
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 18363,
+                "exits": 6261
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 14925,
+                "exits": 12931
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 11839,
+                "exits": 24062
+            }
+        ],
+        "3": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 3188,
+                "exits": 7569
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1008,
+                "exits": 1023
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 24575,
+                "exits": 5132
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 15489,
+                "exits": 5537
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 12329,
+                "exits": 11663
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 9895,
+                "exits": 19533
+            }
+        ],
+        "4": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 3158,
+                "exits": 8264
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1054,
+                "exits": 1083
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 24528,
+                "exits": 4971
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 16032,
+                "exits": 5216
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 12379,
+                "exits": 11937
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 9167,
+                "exits": 17403
+            }
+        ],
+        "5": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 4207,
+                "exits": 10454
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1008,
+                "exits": 1190
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 21927,
+                "exits": 4493
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 18161,
+                "exits": 6386
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 12684,
+                "exits": 11245
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 10607,
+                "exits": 19816
+            }
+        ],
+        "6": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 3667,
+                "exits": 9021
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1061,
+                "exits": 1316
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 22816,
+                "exits": 4979
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 15952,
+                "exits": 5727
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 13309,
+                "exits": 11679
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 10977,
+                "exits": 18626
+            }
+        ],
+        "7": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 4458,
+                "exits": 9975
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1051,
+                "exits": 2694
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 8185,
+                "exits": 3216
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 14940,
+                "exits": 5974
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 14350,
+                "exits": 10150
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 10314,
+                "exits": 13845
+            }
+        ]
+    },
+    "5": {
+        "weekday": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 19631,
+                "exits": 40010
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 6054,
+                "exits": 6586
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 137742,
+                "exits": 27562
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 92141,
+                "exits": 29091
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 75816,
+                "exits": 62224
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 60549,
+                "exits": 99471
+            }
+        ],
+        "weekend": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 8648,
+                "exits": 15140
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1919,
+                "exits": 3963
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 12284,
+                "exits": 4565
+            },
+            {
+                "ending_time": "12:30:00",
+                "entries": 1675,
+                "exits": 636
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 21946,
+                "exits": 8123
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 22102,
+                "exits": 14179
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 15558,
+                "exits": 18168
+            }
+        ],
+        "1": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 4110,
+                "exits": 7191
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 936,
+                "exits": 1931
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 4901,
+                "exits": 1903
+            },
+            {
+                "ending_time": "12:30:00",
+                "entries": 1675,
+                "exits": 636
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 8661,
+                "exits": 3082
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 10037,
+                "exits": 6282
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 6546,
+                "exits": 8499
+            }
+        ],
+        "2": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 3034,
+                "exits": 5308
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 970,
+                "exits": 1121
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 19674,
+                "exits": 4038
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 14195,
+                "exits": 4573
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 12298,
+                "exits": 9605
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 9252,
+                "exits": 15968
+            }
+        ],
+        "3": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 4171,
+                "exits": 8170
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1330,
+                "exits": 1319
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 31647,
+                "exits": 6299
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 20312,
+                "exits": 6291
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 16245,
+                "exits": 13830
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 12775,
+                "exits": 22498
+            }
+        ],
+        "4": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 4250,
+                "exits": 8864
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1352,
+                "exits": 1458
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 32026,
+                "exits": 6212
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 20489,
+                "exits": 6605
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 16491,
+                "exits": 13456
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 13327,
+                "exits": 22555
+            }
+        ],
+        "5": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 4502,
+                "exits": 9586
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1322,
+                "exits": 1446
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 30892,
+                "exits": 6073
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 20511,
+                "exits": 6416
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 16430,
+                "exits": 13515
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 13883,
+                "exits": 22364
+            }
+        ],
+        "6": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 3674,
+                "exits": 8082
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1080,
+                "exits": 1242
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 23503,
+                "exits": 4940
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 16634,
+                "exits": 5206
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 14352,
+                "exits": 11818
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 11312,
+                "exits": 16086
+            }
+        ],
+        "7": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 4538,
+                "exits": 7949
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 983,
+                "exits": 2032
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 7383,
+                "exits": 2662
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 13285,
+                "exits": 5041
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 12065,
+                "exits": 7897
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 9012,
+                "exits": 9669
+            }
+        ]
+    },
+    "6": {
+        "weekday": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 19005,
+                "exits": 40637
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 5782,
+                "exits": 6992
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 119237,
+                "exits": 23881
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 84225,
+                "exits": 28380
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 68941,
+                "exits": 57160
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 54577,
+                "exits": 92944
+            }
+        ],
+        "weekend": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 10915,
+                "exits": 18945
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 2333,
+                "exits": 5544
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 14555,
+                "exits": 5607
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 28101,
+                "exits": 10878
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 27595,
+                "exits": 17589
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 18328,
+                "exits": 23170
+            }
+        ],
+        "1": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 4871,
+                "exits": 7824
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1009,
+                "exits": 2424
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 4913,
+                "exits": 2076
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 11395,
+                "exits": 4369
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 11434,
+                "exits": 6791
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 7041,
+                "exits": 9506
+            }
+        ],
+        "2": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 3224,
+                "exits": 6413
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1035,
+                "exits": 1290
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 23151,
+                "exits": 4379
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 15359,
+                "exits": 5232
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 12574,
+                "exits": 10334
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 9777,
+                "exits": 18404
+            }
+        ],
+        "3": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 3582,
+                "exits": 7271
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1134,
+                "exits": 1208
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 24001,
+                "exits": 4706
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 16092,
+                "exits": 5618
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 13051,
+                "exits": 11128
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 10101,
+                "exits": 17680
+            }
+        ],
+        "4": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 3704,
+                "exits": 8069
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1098,
+                "exits": 1353
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 23644,
+                "exits": 4614
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 15841,
+                "exits": 5188
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 13230,
+                "exits": 11228
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 10002,
+                "exits": 18412
+            }
+        ],
+        "5": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 3687,
+                "exits": 8151
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1093,
+                "exits": 1261
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 21944,
+                "exits": 4380
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 16540,
+                "exits": 5324
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 12937,
+                "exits": 10529
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 10433,
+                "exits": 17735
+            }
+        ],
+        "6": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 4808,
+                "exits": 10733
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1422,
+                "exits": 1880
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 26497,
+                "exits": 5802
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 20393,
+                "exits": 7018
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 17149,
+                "exits": 13941
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 14264,
+                "exits": 20713
+            }
+        ],
+        "7": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 6044,
+                "exits": 11121
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1324,
+                "exits": 3120
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 9642,
+                "exits": 3531
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 16706,
+                "exits": 6509
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 16161,
+                "exits": 10798
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 11287,
+                "exits": 13664
+            }
+        ]
+    },
+    "7": {
+        "weekday": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 19516,
+                "exits": 43261
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 5834,
+                "exits": 7562
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 110304,
+                "exits": 24301
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 86820,
+                "exits": 31185
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 64888,
+                "exits": 58265
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 52219,
+                "exits": 98632
+            }
+        ],
+        "weekend": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 9812,
+                "exits": 18289
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 2157,
+                "exits": 4745
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 12989,
+                "exits": 5582
+            },
+            {
+                "ending_time": "12:45:00",
+                "entries": 1636,
+                "exits": 745
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 23669,
+                "exits": 9501
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 25258,
+                "exits": 17083
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 16704,
+                "exits": 23032
+            }
+        ],
+        "1": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 5530,
+                "exits": 9819
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1170,
+                "exits": 2542
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 5932,
+                "exits": 2818
+            },
+            {
+                "ending_time": "12:45:00",
+                "entries": 1636,
+                "exits": 745
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 11103,
+                "exits": 4360
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 12983,
+                "exits": 8514
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 8277,
+                "exits": 11773
+            }
+        ],
+        "2": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 4103,
+                "exits": 8050
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1294,
+                "exits": 1568
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 24652,
+                "exits": 5142
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 20604,
+                "exits": 7313
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 13931,
+                "exits": 13029
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 11202,
+                "exits": 23175
+            }
+        ],
+        "3": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 4256,
+                "exits": 9281
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1257,
+                "exits": 1642
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 27326,
+                "exits": 5910
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 19567,
+                "exits": 7303
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 14306,
+                "exits": 13760
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 11770,
+                "exits": 23499
+            }
+        ],
+        "4": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 3561,
+                "exits": 8161
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 989,
+                "exits": 1393
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 18034,
+                "exits": 4023
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 14269,
+                "exits": 5046
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 11498,
+                "exits": 9634
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 9134,
+                "exits": 16846
+            }
+        ],
+        "5": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 3724,
+                "exits": 8440
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1089,
+                "exits": 1415
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 21101,
+                "exits": 4678
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 15840,
+                "exits": 5645
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 12103,
+                "exits": 10515
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 10281,
+                "exits": 19278
+            }
+        ],
+        "6": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 3872,
+                "exits": 9329
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1205,
+                "exits": 1544
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 19191,
+                "exits": 4548
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 16540,
+                "exits": 5878
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 13050,
+                "exits": 11327
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 9832,
+                "exits": 15834
+            }
+        ],
+        "7": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 4282,
+                "exits": 8470
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 987,
+                "exits": 2203
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 7057,
+                "exits": 2764
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 12566,
+                "exits": 5141
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 12275,
+                "exits": 8569
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 8427,
+                "exits": 11259
+            }
+        ]
+    },
+    "8": {
+        "weekday": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 20194,
+                "exits": 44961
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 6383,
+                "exits": 8345
+            },
+            {
+                "ending_time": "07:30:00",
+                "entries": 1361,
+                "exits": 361
+            },
+            {
+                "ending_time": "08:15:00",
+                "entries": 658,
+                "exits": 158
+            },
+            {
+                "ending_time": "08:45:00",
+                "entries": 3075,
+                "exits": 748
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 111585,
+                "exits": 25410
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 87517,
+                "exits": 31627
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 66135,
+                "exits": 60365
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 53116,
+                "exits": 100886
+            }
+        ],
+        "weekend": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 8421,
+                "exits": 15573
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1957,
+                "exits": 4427
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 11209,
+                "exits": 4756
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 20947,
+                "exits": 8649
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 21439,
+                "exits": 14663
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 15193,
+                "exits": 19519
+            }
+        ],
+        "1": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 4139,
+                "exits": 7239
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 985,
+                "exits": 2193
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 4806,
+                "exits": 2139
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 9968,
+                "exits": 4051
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 10179,
+                "exits": 6616
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 6647,
+                "exits": 9259
+            }
+        ],
+        "2": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 2395,
+                "exits": 5085
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1572,
+                "exits": 2116
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 20135,
+                "exits": 4506
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 14137,
+                "exits": 5283
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 10658,
+                "exits": 9783
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 8731,
+                "exits": 18505
+            }
+        ],
+        "3": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 3149,
+                "exits": 7175
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 978,
+                "exits": 1205
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 20913,
+                "exits": 4812
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 15244,
+                "exits": 5639
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 11159,
+                "exits": 10286
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 7372,
+                "exits": 16071
+            }
+        ],
+        "4": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 5773,
+                "exits": 12044
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1308,
+                "exits": 1538
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 26454,
+                "exits": 5997
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 19417,
+                "exits": 6676
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 14375,
+                "exits": 13099
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 11842,
+                "exits": 23721
+            }
+        ],
+        "5": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 4433,
+                "exits": 10270
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1236,
+                "exits": 1625
+            },
+            {
+                "ending_time": "08:45:00",
+                "entries": 3075,
+                "exits": 748
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 22775,
+                "exits": 5067
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 19668,
+                "exits": 6784
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 14548,
+                "exits": 12977
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 12159,
+                "exits": 23265
+            }
+        ],
+        "6": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 4444,
+                "exits": 10387
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1289,
+                "exits": 1861
+            },
+            {
+                "ending_time": "07:30:00",
+                "entries": 1361,
+                "exits": 361
+            },
+            {
+                "ending_time": "08:15:00",
+                "entries": 658,
+                "exits": 158
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 21308,
+                "exits": 5028
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 19051,
+                "exits": 7245
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 15395,
+                "exits": 14220
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 13012,
+                "exits": 19324
+            }
+        ],
+        "7": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 4282,
+                "exits": 8334
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 972,
+                "exits": 2234
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 6403,
+                "exits": 2617
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 10979,
+                "exits": 4598
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 11260,
+                "exits": 8047
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 8546,
+                "exits": 10260
+            }
+        ]
+    },
+    "9": {
+        "weekday": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 12229,
+                "exits": 27761
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 3856,
+                "exits": 5003
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 85846,
+                "exits": 19696
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 57371,
+                "exits": 20655
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 45631,
+                "exits": 44485
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 36390,
+                "exits": 71914
+            }
+        ],
+        "weekend": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 6109,
+                "exits": 12258
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 1510,
+                "exits": 3274
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 8821,
+                "exits": 3912
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 16980,
+                "exits": 6854
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 15831,
+                "exits": 11240
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 11979,
+                "exits": 15764
+            }
+        ],
+        "1": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 3058,
+                "exits": 5910
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 722,
+                "exits": 1615
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 3591,
+                "exits": 1709
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 7780,
+                "exits": 3148
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 7485,
+                "exits": 5377
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 4978,
+                "exits": 7090
+            }
+        ],
+        "2": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 2252,
+                "exits": 4531
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 730,
+                "exits": 1124
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 12600,
+                "exits": 3091
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 9596,
+                "exits": 4077
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 8313,
+                "exits": 8623
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 6455,
+                "exits": 12144
+            }
+        ],
+        "3": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 2520,
+                "exits": 4978
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 773,
+                "exits": 855
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 17238,
+                "exits": 3673
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 11526,
+                "exits": 3989
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 8467,
+                "exits": 8016
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 6744,
+                "exits": 14963
+            }
+        ],
+        "4": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 2384,
+                "exits": 5771
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 734,
+                "exits": 959
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 18137,
+                "exits": 4063
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 11878,
+                "exits": 4203
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 9437,
+                "exits": 8758
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 7177,
+                "exits": 15319
+            }
+        ],
+        "5": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 2519,
+                "exits": 6128
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 829,
+                "exits": 922
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 19509,
+                "exits": 4447
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 12199,
+                "exits": 4106
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 9263,
+                "exits": 9684
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 7793,
+                "exits": 15477
+            }
+        ],
+        "6": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 2554,
+                "exits": 6353
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 790,
+                "exits": 1143
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 18362,
+                "exits": 4422
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 12172,
+                "exits": 4280
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 10151,
+                "exits": 9404
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 8221,
+                "exits": 14011
+            }
+        ],
+        "7": [
+            {
+                "ending_time": "01:00:00",
+                "entries": 3051,
+                "exits": 6348
+            },
+            {
+                "ending_time": "05:00:00",
+                "entries": 788,
+                "exits": 1659
+            },
+            {
+                "ending_time": "09:00:00",
+                "entries": 5230,
+                "exits": 2203
+            },
+            {
+                "ending_time": "13:00:00",
+                "entries": 9200,
+                "exits": 3706
+            },
+            {
+                "ending_time": "17:00:00",
+                "entries": 8346,
+                "exits": 5863
+            },
+            {
+                "ending_time": "21:00:00",
+                "entries": 7001,
+                "exits": 8674
+            }
+        ]
+    }
+}
