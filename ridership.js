@@ -250,8 +250,8 @@ function draw(div, data, options) {
 
 var options = {
     options: {
-        start: {type: 'date', label: "Start", default: "2017-12-11"},
-        end: {type: 'date', label: "End", default: "2017-12-18"},
+        start: {type: 'date', label: "Start", default: "2018-08-01"},
+        end: {type: 'date', label: "End", default: "2017-08-31"},
         group: {
             type: 'list', 
             items: {
@@ -263,7 +263,7 @@ var options = {
                 },
             default: ''
         },
-        cumulative: {type: 'checkbox', label: "Cumulative", default: true},
+        cumulative: {type: 'checkbox', label: "Cumulative", default: false},
         filter: {
             type: 'list',
             items: {
@@ -275,7 +275,7 @@ var options = {
                 },
             default: 'sinc'
         },
-        period: {type: 'text', label: "Filter period", default: "1 hour"},
+        period: {type: 'text', label: "Filter period", default: "2 hours"},
         entries: {type: 'checkbox', label: "Entries", default: true},
         exits: {type: 'checkbox', label: "Exits", default: true}
     },
