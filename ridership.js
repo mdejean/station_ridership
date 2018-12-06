@@ -251,7 +251,7 @@ function draw(div, data, options) {
 var options = {
     options: {
         start: {type: 'date', label: "Start", default: "2018-08-01"},
-        end: {type: 'date', label: "End", default: "2017-08-31"},
+        end: {type: 'date', label: "End", default: "2018-08-31"},
         group: {
             type: 'list', 
             items: {
